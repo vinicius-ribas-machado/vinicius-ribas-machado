@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vinicius Ribas Machado 🖐️
 
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=[devfraga](https://github.com/vinicius-ribas-machado)&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-ribas-machado&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
